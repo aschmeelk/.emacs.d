@@ -1,3 +1,5 @@
+
+
 * Package Settings
 #+BEGIN_SRC emacs-lisp
 (require 'package)
@@ -39,4 +41,8 @@ Interactive DO (File Finder)
 ** ido grid mode
 #+Begin_SRC emacs-lisp
 (ido-grid-mode 1)
+#+END_SRC
+** Auto-complete
+#+Begin_SRC emacs-lisp
+(ac-config-default)
 #+END_SRC
