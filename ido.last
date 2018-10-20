@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/alan/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/alan/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "settings.org"
+ "init.el"
+ "settings.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/alan/.emacs.d/" (23499 28559 0 0) "snippets/" "settings.org" "settings.el" "init.el~" "init.el" "elpa/" "auto-save-list/" ".DS_Store" "../" "./")
+
+ ("/Users/alan/" (23498 14719 0 0) "warehouse/" "test.sml" "test.py" "test.lisp" "test.clj" "test/" "template/" "temp/" "student.rb" "solarized.vim" "Sites/" "servers.sqlite3" "sample.sh" "sample.py" "ruby/" "rt22.xml" "RiderProjects/" "quicklisp.lisp" "quicklisp/" "QlikCore/" "Public/" "Projects/" "Plans/" "pixinsight-license" "Pictures/" "personal.org" "personal.html" "package-lock.json" "otrdtt_patient_macos_US.dmg" "org/" "Open365/" "omnisharp-server/" "notes.txt" "NoobSec-Toolkit/" "node_modules/" "mydockerbuild/" "Music/" "msp430-toolchain-mac_os_x-x86_64-2.2/" "Movies/" "meatloaf.txt" "Makefile" "Mail/" "macsalad.txt" "Library/" "learning.org" "journal.txt" "installer.img.gz" "hwapp/" "hello.sh" "google-cloud-sdk/" "Google Drive/" "git-completion.bash" "file-analysis.txt" "ffserver" "ffprobe" "ffmpeg" "example.org~" "example.org" "example.html" "elm-sandbox/" "elisp/" "eclipse-workspace/" "eclipse/" "Dropbox/" "Downloads/" "DotNetProjects/" "DOS Games/" "Documents/" "Dev/" "Desktop/" "d_app/" "crispyporkchop.txt" "code/" "clojure-koans/" "cias.xlsx" "CIA_Upgrade.org" "CIA_Upgrade.html~" "CIA_Upgrade.html" "CIA Drive data.ipynb" "Calibre Library/" "Boostnote/" "Blink.avi" "bash_profile" "Applications/" "Android/" "960-Grid-System-master/" ".zshrc" ".zlogin" ".zenmap-etc/" ".zenmap/" ".xephem/" ".Xauthority" ".wing101-5/" ".wine/" ".vsts/" ".vscode/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.5.0.71.57.alan.json" ".Tribler/" ".Trash/" ".tooling/" ".subversion/" ".ssh/" ".sqlite_history" ".slime-history.eld" ".slime/" ".skychart/" ".ServiceHub/" ".sbclrc" ".rvm/" ".rnd" ".recently-used" ".quicklisp/" ".python_history" ".python-eggs/" ".pylint.d/" ".putty/" ".ptpython/" ".profile" ".pip/" ".pgpass" ".p2/" ".oracle_jre_usage/" ".omnisharp/" ".nuget/" ".Nuance-OmniPage-CSDK-19.2/" ".npm/" ".node-red/" ".node-gyp/" ".ninja_ide/" ".netrc" ".netbeans/" ".nds/" ".mysql_history" ".mono/" ".mkshrc" ".megamek/" ".matplotlib/" ".maptool/" ".m2/" ".local/" ".lldb/" ".lighttable/" ".lfs/" ".lesshst" ".lein/" ".keepassx/" ".k/" ".jupyter/" ".jssc/" ".jrnl_config" ".irbc" ".irb-history" ".ipython/" ".ipynb_checkpoints/" ".iep/" ".idlerc/" ".IdentityService/" ".heroku/" ".gnuplot_history" ".gnome2/" ".gmic_sources.cimgz" ".gitconfig" ".gemrc" ".gem/" ".fonts/" ".fontconfig/" ".folders" ".flutter" ".filezilla/" ".erc/" ".emacs~" ".emacs.d.zip" ".emacs.d/" ".elmo/" ".elm/" ".eclipse/" ".DS_Store" ".dropbox/" ".dotnet/" ".docker/" ".distlib/" ".dbus-keyrings/" ".cups/" ".cpan/" ".config/" ".cisco/" ".CFUserTextEncoding" ".ccnet/" ".cache/" ".bluefish/" ".bashrc" ".bash_sessions/" ".bash_profile~" ".bash_profile.pysave" ".bash_profile.bak" ".bash_profile.backup" ".bash_profile" ".bash_it/" ".bash_history" ".atom/" ".aspnet/" ".android/" ".adobe/" "*message*-20150909-223109" "'test.py'" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
